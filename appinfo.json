@@ -1,0 +1,20 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "yeliztaneroglu@gmail.com",
+    "longName": "Tutorial 1",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "2",
+    "shortName": "Tutorial 1",
+    "uuid": "01431348-d8ab-4fe0-aa0a-75631892bdb3",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
